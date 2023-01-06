@@ -10,7 +10,7 @@ export const projects=[
     {   id:2,
         name:'Tienda Xtrema JavaScript',
         description:'Esta web es una simulacion de un Ecommerse usando javascript',
-        projectUrl:'https://github.com/Josbor/world-bank',
+        projectUrl:'https://github.com/trussoromera/proyecto-react-js',
         deploy:'https://tienda-extrema-tomas-developer.netlify.app/',
         image:'https://github.com/trussoromera/portfolio/blob/master/src/assets/img/project-2.png?raw=true'
     },
