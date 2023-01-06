@@ -5,7 +5,7 @@ export const projects=[
         description:'Hola este seria mi portfolio',
         projectUrl:'https://github.com/trussoromera/portfolio',
         deploy:'https://portfolio-tomas-russo-developer.netlify.app/',
-        image:'https://raw.githubusercontent.com/Josbor/portfolio/main/src/assets/img/project-1.png'
+        image:'https://github.com/trussoromera/portfolio/blob/master/src/assets/img/project-1.png?raw=true'
     },
     {   id:2,
         name:'Tienda Xtrema JavaScript',
@@ -19,7 +19,7 @@ export const projects=[
         description:'Esta web es una simulacion de un Ecommerse usando Reactjs',
         projectUrl:'https://github.com/trussoromera/proyecto-react-js',
         deploy:'https://ecommerce-react-russo-developer.netlify.app/',
-        image:'https://github.com/trussoromera/portfolio/blob/master/src/assets/img/project-2.png?raw=true'
+        image:'https://github.com/trussoromera/portfolio/blob/master/src/assets/img/project-3.png?raw=true'
     },
     
 ]
