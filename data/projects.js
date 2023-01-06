@@ -1,18 +1,25 @@
 
 export const projects=[
     {   id:1,
-        name:'PWA simulador de app Bancaria',
-        description:'esta es una aplicacion realizada para probar el login de usuario y consulta de la cuenta bancaria registrada',
-        projectUrl:'https://github.com/Josbor/world-bank',
-        deploy:'https://worl-cash-app.netlify.app',
+        name:'Portfolio Tomas Russo Romera Developer',
+        description:'Hola este seria mi portfolio',
+        projectUrl:'https://github.com/trussoromera/portfolio',
+        deploy:'https://portfolio-tomas-russo-developer.netlify.app/',
         image:'https://raw.githubusercontent.com/Josbor/portfolio/main/src/assets/img/project-1.png'
     },
-    {   id:1,
-        name:'PWA simulador de app Bancaria',
-        description:'esta es una aplicacion realizada para probar el login de usuario y consulta de la cuenta bancaria registrada',
+    {   id:2,
+        name:'Tienda Xtrema JavaScript',
+        description:'Esta web es una simulacion de un Ecommerse usando javascript',
         projectUrl:'https://github.com/Josbor/world-bank',
         deploy:'https://tienda-extrema-tomas-developer.netlify.app/',
-        image:'https://raw.githubusercontent.com/Josbor/portfolio/main/src/assets/img/project-7.png'
+        image:'https://github.com/trussoromera/portfolio/blob/master/src/assets/img/project-2.png?raw=true'
+    },
+    {   id:3,
+        name:'Ecommerce reactjs',
+        description:'Esta web es una simulacion de un Ecommerse usando Reactjs',
+        projectUrl:'https://github.com/trussoromera/proyecto-react-js',
+        deploy:'https://ecommerce-react-russo-developer.netlify.app/',
+        image:'https://github.com/trussoromera/portfolio/blob/master/src/assets/img/project-2.png?raw=true'
     },
     
 ]
