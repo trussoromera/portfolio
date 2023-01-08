@@ -30,28 +30,28 @@ export const techSkills={
         
         {
             id:1,
-            name:'html',
+            name:'Html',
             image:'https://www.svgrepo.com/show/373669/html.svg'
         }
         ,
         {
             id:2,
-            name:'css',
+            name:'Css',
             image:'https://www.svgrepo.com/show/373535/css.svg'
         },
         {
             id:3,
-            name:'javascript',
+            name:'JavaScript',
             image:'https://www.svgrepo.com/show/353925/javascript.svg'
         },
         {
             id:4,
-            name:'react',
+            name:'React',
             image:'https://www.svgrepo.com/show/354259/react.svg'
         },
         {
             id:5,
-            name:'redux',
+            name:'Redux',
             image:'https://www.svgrepo.com/show/354274/redux.svg'
         },
         {
@@ -74,12 +74,12 @@ export const techSkills={
             },
         {
         id:2,
-        name:'node js',
+        name:'Node js',
         image:'https://www.svgrepo.com/show/355140/node.svg'
         },
         {
         id:3,
-        name:'sql',
+        name:'Sql',
         image:'https://www.svgrepo.com/show/331760/sql-database-generic.svg'
         },
         {
