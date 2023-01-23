@@ -78,11 +78,26 @@ const Header = () => {
                 options={{ ...options, autoPlay: true }}
 
             />
-            <h1>FRONTEND DEVELOPER</h1>
+            <h1>FULL STACK DEVELOPER</h1>
             <h3 className="span loader">
-                <span className="m">TOMAS</span>
+                <span className="m">T</span>
+                <span className="m">O</span>
+                <span className="m">M</span>
+                <span className="m">A</span>
+                <span className="m">S</span>
                 <span className="m">&nbsp;</span>
-                <span className="m">RUSSO</span>
+                <span className="m">R</span>
+                <span className="m">U</span>
+                <span className="m">S</span>
+                <span className="m">S</span>
+                <span className="m">O</span>
+                <span className="m">&nbsp;</span>
+                <span className="m">R</span>
+                <span className="m">O</span>
+                <span className="m">M</span>
+                <span className="m">E</span>
+                <span className="m">R</span>
+                <span className="m">A</span>
             </h3>
         </>
     )

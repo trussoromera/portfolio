@@ -1,7 +1,7 @@
 import { Button } from '@mui/material'
 import React from 'react'
 import image from '../assets/profilePic.jpg'
-import document from '../assets/doc/FrontEnd_Developer_Tomas_Russo.pdf'
+import document from '../assets/doc/FullStack_Developer_Tomas_Russo.pdf'
 import Network from '../components/Network'
 import { networks } from '../../data/projects'
 
@@ -17,7 +17,7 @@ const AboutMe = () => {
       </div>
       <div className='about-content'>
         <h2>SOBRE MI</h2>
-        <p>Soy Tomas Russo Romera ,Desarrollador Front End con React JS con experiencia también en Back End. Dominio en backend con MongoDB , NodeJS y Sql para base de datos. Enfocado al desarrollo visual y dinámico de soluciones. Poseo habilidades a la hora de armar un código escalable y dinámico.
+        <p>Soy Tomas Russo Romera ,Desarrollador Full Stack con React JS con experiencia también en Back End. Dominio en backend con MongoDB , NodeJS y Sql para base de datos. Enfocado al desarrollo visual y dinámico de soluciones. Poseo habilidades a la hora de armar un código escalable y dinámico.
         </p>
         <div className='networks-content'>{networks.length>0&&networks.map(network=>
           <Network network={network}/>

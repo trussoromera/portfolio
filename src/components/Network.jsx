@@ -9,7 +9,7 @@ const Network = ({ network }) => {
     <>
       <div className='network-img'>
         <a href={network.url} target="_blank">
-         <img src={network.image}   alt={network.name} />
+          <img src={network.image} alt={network.name} />
         </a>
       </div>
     </>
