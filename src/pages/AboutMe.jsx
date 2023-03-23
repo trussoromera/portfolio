@@ -1,7 +1,7 @@
 import { Button } from '@mui/material'
 import React from 'react'
 import image from '../assets/profilePic.jpg'
-import document from '../assets/doc/FullStack_Developer_Tomas_Russo.pdf'
+import document from '../assets/doc/Tomas_Russo_Romera_CV.pdf'
 import Network from '../components/Network'
 import { networks } from '../../data/projects'
 
